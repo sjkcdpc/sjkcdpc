@@ -1,3 +1,28 @@
+<h2> Hi, I'm sjkcdpc!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p>
+  <em>Software Enginner at Beijing </a>
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </br>
+  </em>
+</p>
+
+[![GitHub sjkcdpc](https://img.shields.io/github/followers/sjkcdpc?label=follow&style=social)](https://github.com/sjkcdpc)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Shaddock = {
+  pronouns: "he",
+  code: [Python, Golang, Shell],
+  tools: [Kubernetes, Docker],
+  architecture: ["microservices"],
+  communities: {},
+  challenge: "No Code"
+}
+```
+
 ### Hello World 😄
 
 <!--
