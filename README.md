@@ -3,7 +3,6 @@
 <p>
   <em>Software Enginner at Beijing </a>
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/9999?icon=github&color=red"></a>
   </br>
   </em>
 </p>
