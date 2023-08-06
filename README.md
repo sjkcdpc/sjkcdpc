@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🤔 找工作中,地址北京
-- 📖 我正在学习Go、云原生架构、可观测性监控
+- 📖 我正在学习Go、云原生架构、可观测性监控系统
 - 📫 如何联系我: <mdscdpc@gmail.com>
 - 🧑‍🏫 博客: <https://mdslq.cn>
 
