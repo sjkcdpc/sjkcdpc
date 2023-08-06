@@ -1,11 +1,11 @@
 <h2> Hi, I'm sjkcdpc!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>
-  <em>Software Enginner at Beijing </a>
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br>
-  </em>
-</p>
+
+- 🤔 找工作中,地址北京
+- 📖 我正在学习Go、云原生架构、可观测性监控
+- 📫 如何联系我: <mdscdpc@gmail.com>
+- 🧑‍🏫 博客: <https://mdslq.cn>
+
 
 [![GitHub sjkcdpc](https://img.shields.io/github/followers/sjkcdpc?label=follow&style=social)](https://github.com/sjkcdpc)
 
