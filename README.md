@@ -43,6 +43,14 @@ Here are some ideas to get you started:
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=sjkcdpc&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]&line_height=40&count_private=true)
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjkcdpc&theme=dracula)
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
+  <!-- just img 图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+</div>
+
 ### My top 10 technologies-
 
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
