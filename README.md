@@ -51,10 +51,5 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
-### My top 10 technologies-
-
-| ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/sjkcdpc/count.svg)
