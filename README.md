@@ -5,6 +5,7 @@
 - 📖 我正在学习Go、云原生架构、可观测性监控系统
 - 📫 如何联系我: <mdscdpc@gmail.com>
 - 🧑‍🏫 博客: <https://mdslq.cn>
+- 户外项目: https://outdoor-hub.cn/
 
 
 [![GitHub sjkcdpc](https://img.shields.io/github/followers/sjkcdpc?label=follow&style=social)](https://github.com/sjkcdpc)
